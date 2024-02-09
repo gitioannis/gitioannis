@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on SQL teaching my super motivated cohort!
-- 📫 How to reach me: at the john.miaris@theskillsnetwork.com
+- 📫 How to reach me at: john.miaris@theskillsnetwork.com
 - 💬 Ask me about HTML, Javascript, CSS, jQuery, C, C#, VisualBasic, VBA, Classic ASP, ASP.Net Framework 4.0+, Razor, Excel, MS BI Desktop, SSRS, SSMS, SSIS, SQL, Data Science, Python.
-
+- 😄 But also for... Employability, Secondary Schools, Futher Education Funding Regulations, GCSEs, A-Levels, Miami Florida, Corfu Greece and... just about any Greek cousine recipies!!
 <!--
 **gitioannis/gitioannis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
