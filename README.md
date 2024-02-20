@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on SQL teaching my super motivated cohort!
+- 🔭 I’m currently working on SQL and Python!
 - 📫 How to reach me at: ymiaris@gmail.com
 - 💬 Ask me about HTML, Javascript, CSS, jQuery, C, C#, VisualBasic, VBA, Classic ASP, ASP.Net Framework 4.0+, Razor, Excel, MS BI Desktop, SSRS, SSMS, SSIS, SQL, Data Science, Python.
 - 😄 But also for... Employability, Secondary Schools, Futher Education Funding Regulations, GCSEs, A-Levels, Miami Florida, Corfu Greece and... just about any Greek cousine recipies!!
